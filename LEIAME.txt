@@ -1,27 +1,11 @@
-Fênix | Banco de Questões — v1.1 (14/11/2026)
+Fênix | Desafio de Conhecimentos — v1.4 (15/11/2026)  |  Livro 5.9, Ficha: E, G
+(antes: Fênix | Banco de Questões)
 
-ARQUIVOS
-- fenix-banco-de-questoes-v1.1.html ........ o app (controle interno, com versão no nome)
-- index.html ............................... cópia neutra, idêntica (a que vai para o GitHub Pages)
-- fenix-banco-de-questoes-manual-v1.1.md ... manual do usuário (o mesmo texto que está na tela Sobre)
-- fenix-anexo-aplicativos-de-estudo.md ..... anexo para os Termos de Uso e a Política de Privacidade (atualizado: explicações da IA)
-- fenix-pacote-biblioteca-pendente-v5.9.md . regra do aviso, exceção de cores, entrada do Guia e o que falta ligar ao core
-- LEIAME.txt
+RAIZ: index.html (o app, cópia neutra) e este LEIAME.txt
+Icon/ ícone do app (512 px) | MD/ manual em Markdown (com prints) | DOC/ manual em PDF
+versoes/ cópias com a versão no nome, só controle interno
 
-NOVIDADE DA v1.1 — EXPLICAÇÃO DE CADA QUESTÃO
-- Dois campos por questão: "por que a correta está correta" (passo a passo, fórmulas, contas e unidades) e
-  "por que as outras estão erradas" (opcional).
-- Depois de responder, a explicação aparece em destaque, tanto no treino quanto no resultado do simulado.
-- Botão "Explicar com IA" (usa a chave de Configurações): gera a explicação e, se a questão não tiver uma, permite salvá-la.
-  Se o aluno errou, a IA explica também por que a alternativa marcada está errada.
-- A importação por IA já gera as explicações junto com as questões.
-- No Banco: marcador "sem explicação" e filtro "Só questões sem explicação".
-- Correção: sair do resumo de um treino/simulado e voltar a Estudar/Simulado abre o formulário novo.
-
-COMO USAR
-Abra o index.html (ou o arquivo com versão) no navegador. Os dados ficam só no aparelho (localStorage).
-Dados da v1.0 continuam válidos (o formato é compatível).
-
-PENDENTE (ver fenix-pacote-biblioteca-pendente-v5.9.md)
-Modo nuvem e licença/teste de 15 dias (dependem do Fênix Core), logo/águia em base64, manual em PDF com prints,
-Guia da biblioteca v5.9 (md e docx, duas cópias) e Termos/Política atualizados na biblioteca.
+NOVIDADE DA v1.4: novo nome, Fênix | Desafio de Conhecimentos, em todos os textos do app, no manual e nos arquivos.
+O identificador interno (fenix-banco-de-questoes) e a chave de dados NÃO mudaram de propósito: quem tem dados da v1.3
+mantém tudo e o teste de 15 dias não reinicia. Versão de volta: v1.3.
+ATENÇÃO: o ícone ainda traz o texto "BANCO DE QUESTÕES" desenhado na imagem; precisa de uma nova arte com o novo nome.
