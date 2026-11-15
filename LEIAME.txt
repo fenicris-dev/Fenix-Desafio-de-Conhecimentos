@@ -1,11 +1,14 @@
-Fênix | Desafio de Conhecimentos — v1.4 (15/11/2026)  |  Livro 5.9, Ficha: E, G
-(antes: Fênix | Banco de Questões)
+Fênix | Banco de Questões — v1.3 (15/11/2026)  |  Livro 5.9, Ficha: E, G
 
 RAIZ: index.html (o app, cópia neutra) e este LEIAME.txt
-Icon/ ícone do app (512 px) | MD/ manual em Markdown (com prints) | DOC/ manual em PDF
-versoes/ cópias com a versão no nome, só controle interno
+Icon/ ícone oficial do app (512 px) | MD/ manual em Markdown (com prints) | DOC/ manual em PDF
+versoes/ cópias com a versão no nome (app e manuais), só controle interno
 
-NOVIDADE DA v1.4: novo nome, Fênix | Desafio de Conhecimentos, em todos os textos do app, no manual e nos arquivos.
-O identificador interno (fenix-banco-de-questoes) e a chave de dados NÃO mudaram de propósito: quem tem dados da v1.3
-mantém tudo e o teste de 15 dias não reinicia. Versão de volta: v1.3.
-ATENÇÃO: o ícone ainda traz o texto "BANCO DE QUESTÕES" desenhado na imagem; precisa de uma nova arte com o novo nome.
+NOVIDADES DA v1.3
+- Importação direta de PDF, Word (.docx), Excel (.xlsx/.xls), CSV, HTML, Markdown e texto. Planilha com cabeçalho
+  (Enunciado/Pergunta, Alternativa A a E, Gabarito, Explicação opcional) vira questões prontas. .doc/.ppt/.rtf: salvar como .docx ou PDF.
+- Ícone oficial na aba do navegador, no cabeçalho e na abertura (modelo oficial de splash).
+- Pelo Fênix Core: tela Sobre (com changelog em PDF), manual com PDF, preferências, Compartilhar, backup com lembrete de 7 dias,
+  onde guardar os dados e painel clicável do Início. Data da meta com máscara dd/mm/aaaa.
+Versão de volta: v1.2 (dados compatíveis; a chave de armazenamento não mudou).
+Pendente: modo nuvem, login e sincronia (dependem do seu sinal para ativar o banco e de teste com dois aparelhos).
