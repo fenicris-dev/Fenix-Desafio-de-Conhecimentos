@@ -1,14 +1,13 @@
-Fênix | Banco de Questões — v1.3 (15/11/2026)  |  Livro 5.9, Ficha: E, G
-
+Fênix | Desafio de Conhecimentos — v1.6 (16/11/2026)  |  Livro 6.0, Ficha: E, G
 RAIZ: index.html (o app, cópia neutra) e este LEIAME.txt
-Icon/ ícone oficial do app (512 px) | MD/ manual em Markdown (com prints) | DOC/ manual em PDF
-versoes/ cópias com a versão no nome (app e manuais), só controle interno
+Icon/ novo ícone (512 e 192 px, com o lema Estude • Pratique • Evolua) | MD/ manual em Markdown (com prints) | DOC/ manual em PDF
+versoes/ cópias com a versão no nome, só controle interno
 
-NOVIDADES DA v1.3
-- Importação direta de PDF, Word (.docx), Excel (.xlsx/.xls), CSV, HTML, Markdown e texto. Planilha com cabeçalho
-  (Enunciado/Pergunta, Alternativa A a E, Gabarito, Explicação opcional) vira questões prontas. .doc/.ppt/.rtf: salvar como .docx ou PDF.
-- Ícone oficial na aba do navegador, no cabeçalho e na abertura (modelo oficial de splash).
-- Pelo Fênix Core: tela Sobre (com changelog em PDF), manual com PDF, preferências, Compartilhar, backup com lembrete de 7 dias,
-  onde guardar os dados e painel clicável do Início. Data da meta com máscara dd/mm/aaaa.
-Versão de volta: v1.2 (dados compatíveis; a chave de armazenamento não mudou).
-Pendente: modo nuvem, login e sincronia (dependem do seu sinal para ativar o banco e de teste com dois aparelhos).
+NOVIDADES DA v1.6:
+- Nova arte do ícone, aplicada no cabeçalho, na abertura, no favicon e nos arquivos de Icon/.
+- Seis bancos de questões nativos (Elétrica Básica, Informática, Língua Portuguesa, Inglês, Espanhol, Conhecimentos Gerais; 174 questões, todas com explicação), instalados no primeiro acesso. Cada um pode ser excluído e restaurado só na conta do usuário (Banco > Bancos nativos do app). O que o usuário exclui não volta sozinho nas atualizações.
+- Não precisa de núcleo novo: continua o core v6.0 da v1.5 (salas) e o mesmo pacote de biblioteca v6.0.
+
+Identificador interno e chave de dados NÃO mudaram. Versão de volta: v1.5.
+Para o ícone no manifesto/instalação, usar Icon/fenix-desafio-de-conhecimentos-icone-512.png (e 192).
+Questões-modelo escritas pela Fênix sem consulta a fontes externas: revisar normas (NBR 5410, NR-10) e conteúdos antes de uso em prova real.
